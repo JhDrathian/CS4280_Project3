@@ -1,2 +1,6 @@
+all : oss user
+
 oss : oss.cpp
-	g++ oss.cpp -o oss
+	g++ -lrt oss.cpp -o oss
+user : user.cpp
+	g++ user.cpp -o user

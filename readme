@@ -1,0 +1,28 @@
+Project 3 README
+
+Command Line Options
+-h : displays a help menu
+-s int: input a positive integer to specify the max number of child processes
+-l filename : input a string to specify the name of the ouput file
+-t int: input a positive integer to specify the maximum number of seconds to run
+
+Project Completion:
+Command Line Options: Completed
+Spawn Slave Processes: Completed
+Encode Shared Memory: Completed
+Termination after a specified time: Not completed
+Termination after maximum number of processes: Completed
+Message Passing: Partially completed
+Enforcement of Critical Region: Not Completed
+Spawn new children as others terminate: Completed
+Children and Parent alter the system clock: Not completed
+Log output: Not Completed (standard output)
+
+Readme: Completed
+Version Control: https://github.com/JhDrathian/CS4280_Project3
+Makefile: Completed
+
+Overall: Project is really only half completed. I'm turning it in on the due date, and I'll speak with on Thursday about setting up a meeting during your office hours.
+
+
+ 
